@@ -1,0 +1,51 @@
+1630144050157477888 2023-02-27 09:53:22 +0000 <ReadTheDuck> @CMGS1988 有没有一种可能最初做的人是在思考 mset 能不能在 cluster/codis/bla bla bla 里面使用，然后可能因为不正确的答案而设计了这种pipeline使用...后面的人不知道原因都只是跟着说说（ps 团队中碰到过类似的 case 哈哈哈但是我不记得是哪个命令了）
+1623250942715129856 2023-02-08 09:22:37 +0000 <ReadTheDuck> 机房每日 1 炸，公司每天订单都要跌一阵
+1606191560856436736 2022-12-23 07:34:44 +0000 <ReadTheDuck> @CMGS1988 翻来翻去竟然又翻到了这篇文章，国内如果只是千兆的话光靠有线的 mesh 覆盖够用吗，墙里的网线都不好再动了，也不想走明线，打算房间里留一点点空间加个交换机凑合一下
+1592725866542690304 2022-11-16 03:46:52 +0000 <ReadTheDuck> @phyxinon @Aoi_72c6ef Any chance for "Altale" to be played again like the other 1 million views video? 他の100万回再生動画のように「Altale」が「Play Again」になる可能性はありますか？ (sorry for the google translation ^_^)
+1584378238595305472 2022-10-24 02:56:23 +0000 <ReadTheDuck> 有个大聪明跑老远去参加 Hackathon 没拿半个小奖，回来还追尾了出修车钱
+1574601059472793601 2022-09-27 03:25:21 +0000 <ReadTheDuck> 手贱覆盖了 .zshrc 直接炸裂....
+1570650017744187396 2022-09-16 05:45:20 +0000 <ReadTheDuck> @urcyanide @laixintao @fuyufjh 哈哈哈哈哈笑死🤣老哥说得很有道理
+1570013496238305287 2022-09-14 11:36:01 +0000 <ReadTheDuck> @JayiceZz 我看了啊我还查了政策，我就是不理解，新政策是限制从成都来深圳离境的（为什么会有这种政策，相当于坐飞机不允许落地吧？），那所以我就说如果成都来深圳但是不离境，是不是就不用限制了，就当来深圳旅游 1 天，深圳见面之后再离境呀😂除非成都来深圳直接隔离，不然我说的哪里不对？
+1569969642504073216 2022-09-14 08:41:46 +0000 <ReadTheDuck> @JayiceZz 深圳去哪里要隔离这么久...又在推特散布谣言；女朋友先从成都来深圳，再见面，再从深圳出境不就 van 了
+1569943123480162304 2022-09-14 06:56:23 +0000 <ReadTheDuck> @kerthcet 啊啊啊这个要票！🤣
+1565601509303209985 2022-09-02 07:24:21 +0000 <ReadTheDuck> @Andor_Chen ~期待流利的中文译作~
+1564429845508923393 2022-08-30 01:48:35 +0000 <ReadTheDuck> 最讨厌什么样的 repo： 1. 没 README 2. Issue 没人回复（回复说不想做然后 close 掉完全没问题） 3. PR review 慢（回复说不想帮你 review 然后 close 掉完全没问题，我可以 fork 过去自己玩） 4. 求 star 的 5. Markdown 项目，什么技巧集合、一整版外链接等等非代码的仓库 6. 文件都是 Init Commit
+1560508351850565632 2022-08-19 06:05:58 +0000 <ReadTheDuck> @laixintao 观望+1，期待解决方案；现在公司里面工单系统一大堆，提了单也不好管理自己申请过哪些东西，老板快快康康。  我觉得本来如果工单只有 1 个系统，在结单之后 SRE 按资源标注归类就已经可以解决不少问题了，然而实际上....^&amp;*
+1556619163476508672 2022-08-08 12:31:43 +0000 <ReadTheDuck> @frostming90 @laixintao 多半是不同团队在不同时期造的。团队 1 做了个工单系统，团队 2 觉得不好用，或者不知道，决定自己做工单系统，这种场景下团队 2 没有任何理由去考虑“兼容别人的系统”或者“帮工单系统 1 的用户迁移数据平滑过渡”。工单系统 2 做大了之后，又想在公司推广，所以找他们团队帮忙，都得在工单系统 2 提单🤣
+1556513361734471680 2022-08-08 05:31:18 +0000 <ReadTheDuck> @TimothyYe @CMGS1988 hahaha RM 写推荐信有用的吗，那我也想，嘿嘿嘿；不过感觉认识的 PhD 也少，不知道普通校友效果怎么样 :P
+1555855689536245760 2022-08-06 09:57:57 +0000 <ReadTheDuck> @TimothyYe @CMGS1988 谢谢朋友，讲得很清楚！
+1555489213419638784 2022-08-05 09:41:42 +0000 <ReadTheDuck> @CMGS1988 挺有意思的，顺便想请教下老板进修这块 NUS 绩点要求也是 mandatory 的吗，另外什么样的 “工作经历” 是能认可或者加分的呢
+1555372411989549057 2022-08-05 01:57:35 +0000 <ReadTheDuck> @wyatt_jia 不是没人拿，是需要时间，而且也不是个一刀切的事情，不可能说搞好就搞好
+1553671146868191232 2022-07-31 09:17:21 +0000 <ReadTheDuck> CICD / Jenkins in Shopee.  https://t.co/uYXwJMI08r
+1524551437824368640 2022-05-12 00:46:02 +0000 <ReadTheDuck> @kerthcet 我的天我以为这个已经 Merge 进去好久了🤣
+1510095170158891008 2022-04-02 03:21:59 +0000 <ReadTheDuck> @CMGS1988 @DavidHuSG1 老板还在 SG 生活嘛？
+1486901941712322565 2022-01-28 03:20:22 +0000 <ReadTheDuck> @CMGS1988 哭了涨幅股票五五开，结果股票全跌完了
+1480701260508524547 2022-01-11 00:41:05 +0000 <ReadTheDuck> @aftergreatest 惭愧裸 vim 没写出来，靠着 IDE 点进去 context 包才翻到想要的 method，感觉还是在靠标准库的使用，如果面试能放放水允许查 go 官方文档的话，难度可以骤降
+1474379998186196994 2021-12-24 14:02:38 +0000 <ReadTheDuck> @laixintao 这个 sg 的伙伴不是会联系深圳这边，说下午 3 点下班，让有什么事情提前邀约和解决好的吗 hhhhh 我们都知道 sg 今天要早下班
+1466022154772762635 2021-12-01 12:31:33 +0000 <ReadTheDuck> 优雅的 eval 实现🤣  https://t.co/UwNsVx1o88
+1462427872841244677 2021-11-21 14:29:10 +0000 <ReadTheDuck> 其实这书已经偷偷上架了哈哈哈 真的只有500本签了名吗 @draven0xff 🤣🤣  https://t.co/xqzyulpl2i
+1462055998965760004 2021-11-20 13:51:28 +0000 <ReadTheDuck> @laixintao 哈哈哈这个我昨天就试了，而且mbp上也不是马上炸了，一直白屏，我以为程序有啥问题。直到试了很多次之后尝试调整比例才发现已经渲染出来了
+1457727871443632129 2021-11-08 15:13:02 +0000 <ReadTheDuck> 🤣🤣🤣🤣🤣  https://t.co/PMhxtGftq9
+1450488203102724099 2021-10-19 15:45:11 +0000 <ReadTheDuck> @draven0xff （很好奇作者怎么签名再发出去）（难道要飞回国签售吗？）
+1433481511718711297 2021-09-02 17:26:39 +0000 <ReadTheDuck>  https://t.co/QKqcNoyWim
+1402645574055170049 2021-06-09 15:15:39 +0000 <ReadTheDuck> @laixintao 这是什么道理 老板能不能传授一波秘诀，急需
+1387400059214385152 2021-04-28 13:35:25 +0000 <ReadTheDuck> @laixintao 涛哥我又想去seatalk重复这句“我看你在内网写了 xxx ，帮我看下我这是哪一步有问题”了哈哈哈哈哈哈哈哈
+1386371579269947394 2021-04-25 17:28:36 +0000 <ReadTheDuck> @phyxinon Truly like this song. Will the sheet be uploaded before my graduation? Would like to play this at that moment!
+1375444296308944896 2021-03-26 13:47:29 +0000 <ReadTheDuck> 供应链从不加班
+1350737559681331201 2021-01-17 09:31:44 +0000 <ReadTheDuck> @laixintao 有被笑到谢谢
+1282216758091235331 2020-07-12 07:34:32 +0000 <ReadTheDuck> ☀️
+1275124146913947648 2020-06-22 17:51:01 +0000 <ReadTheDuck> Lucky☺️☺️
+1270764426715529216 2020-06-10 17:07:03 +0000 <ReadTheDuck> ☺
+1269554204663783425 2020-06-07 08:58:04 +0000 <ReadTheDuck> !
+1255319083031113728 2020-04-29 02:12:46 +0000 <ReadTheDuck> print( https://t.co/9cX9S0WwFY().strftime("%Y-%m-%d"))
+1250839270434246663 2020-04-16 17:31:36 +0000 <ReadTheDuck> @phyxinon （残酷な天使のテーゼ残酷な天使のテーゼ残酷な天使のテーゼ）~~🥺🥺
+1250475961969020928 2020-04-15 17:27:56 +0000 <ReadTheDuck> RC4 is out today. 14 days away from the Redis 6.0 official release! 👍👍 Please do more live / video about how you develop, how to design a new feature / structure. Can't wait !  @antirez   @RedisLabs
+1248544089965879298 2020-04-10 09:31:22 +0000 <ReadTheDuck> Shopee
+1241021437579649025 2020-03-20 15:19:02 +0000 <ReadTheDuck> @phyxinon Alfetite has done a lot:  https://t.co/paHqQZN7wS 残酷な天使のテーゼ  still missing. Please try this one！
+1236967943541411840 2020-03-09 10:51:54 +0000 <ReadTheDuck> ~
+1155721466756780032 2019-07-29 06:07:24 +0000 <ReadTheDuck>  https://t.co/ZGptq8KYJa
+818777000005562368 2017-01-10 11:10:23 +0000 <ReadTheDuck> @___stephcurry30 Rt
+818776801388339202 2017-01-10 11:09:36 +0000 <ReadTheDuck> VOTE @StephenCurry30 for the 2017 NBA All-Star game! #NBAVote
+[!] No more data! Scraping will stop now.
+found 0 deleted tweets in this search.
+['twitter'] poster drawer done in `OUT_FOLDER`
